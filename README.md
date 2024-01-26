@@ -22,6 +22,10 @@
 - React | TypeScript | Emotion | Redux
 - 42서울 소프트웨어 경진대회 2023 3위 👑
 
+#### 4. [`스트링캣`](https://strcat.me) : 온라인 롤링페이퍼 서비스 ('23.10 ~ NOW) `FE`
+- React | Typescript | Next.Js | Recoil
+- 8명의 팀원이 열심히 유지보수 및 개선중 🔨
+
 ## 👀 Technologies I'm interested in
 <h3 > 📚 Stacks </h3>
 <p>
@@ -35,10 +39,10 @@
 
 <h3> 🌱 Studying </h3>
 <p>
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> 
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
